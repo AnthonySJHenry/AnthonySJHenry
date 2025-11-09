@@ -7,14 +7,14 @@ Frontend: Next.js 16 (App Router), React 19, TypeScript 5.9, Tailwind CSS 4.0, s
 
 Backend API: Node.js 20 LTS, Express.js 5.x, TypeScript 5.9, Prisma ORM 6.x, JWT, bcrypt, Zod, Winston, express-rate-limit, Helmet, Vitest + Supertest
 
-Python Microservice: FastAPI, Python 3.11+, Pydantic, pytest
+Go Microservice: Go 1.21+, Gin or Echo, GORM or sqlc, Go standard testing package
 
 Database & Infrastructure: PostgreSQL 16, AWS RDS, Docker + Docker Compose, GitHub Actions, AWS Amplify, EC2/Lambda, Terraform
 
 Architecture:
 Next.js Frontend → Express API (main) → PostgreSQL
                       ↓
-                 FastAPI Python Microservices (scraping, parsing, other ML services)
+                 Go Microservices (data processing, external API integration, business logic)
 ```
 
 ## Projects
