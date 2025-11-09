@@ -17,7 +17,4 @@ Next.js Frontend → Express API (main) → PostgreSQL
                  Go Microservices (data processing, external API integration, business logic)
 ```
 
-## Projects
 
-- Job-app-tracker
-- Vite Practice Project - Portfolio Website
