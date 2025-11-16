@@ -38,4 +38,9 @@ Database: PostgreSQL 16, Azure Database, AWS, GCP
 Infrastructure: Azure Container Apps, GitHub Actions, Terraform, Docker, GKE
 ```
 
-
+##### EZ RULES
+- Use CAPS for constants
+- Naming should not require comments to provide meaning
+- Use comments sparingly, but when used, it should be explaining the WHY's not WHAT's
+- SRP - Single Responsibility Principle (personal favorite)
+- DRY - Don't Repeast Yourself (pkgs, libs, structs, methods, functions... use them)
