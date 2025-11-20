@@ -24,18 +24,18 @@
 <br>
 
 ```lua
-Frontend: Vite, React 19, TypeScript 5.9, Tailwind
+Frameworks: Next, React, Tailwind, Gin framework, FastAPI, Flask, Django, Spring
 
-Gateway_API: Go 1.21+, Gin framework, structured logging
-
-Microservices:
+Preferred Languages:
   - Go (data processing, external API calls)
-  - Node (if specific npm library needed)
-  - Python (where scraping is required)
+  - JS/TS (Full-Stack; Quick)
+  - Python (Backend, ML, Data)
+  - Java (Enterprise Applications)
 
-Database: PostgreSQL 16, Azure Database, AWS, GCP
+Database: PostgreSQL 16, Azure Database, Supabase, Firebase, Heroku
 
-Infrastructure: Azure Container Apps, GitHub Actions, Terraform, Docker, GKE
+Infrastructure: Azure Container Apps, GitHub Actions, Terraform, Docker, Kubernetes
+
 ```
 
 ##### EZ RULES
