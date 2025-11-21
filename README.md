@@ -1,9 +1,11 @@
-# Anthony Henry
+# Anthony Henry   
+
 > Looking for `Full-Stack || Platform || DevOps` roles <br>
 
 
 
 ## About
+<a href="https://www.linkedin.com/in/anthonysjhenry/" target="_blank" rel="nofollow"><img src="linkedin.svg" alt="LinkedIn"></a>
 - BSIT/BSCS @ Kennesaw State (Enterprise Systems & Data - HPC & Parallel Programming)
 
 - MSCS @ GA Tech (Computing Systems & Human-Computer Interaction)
