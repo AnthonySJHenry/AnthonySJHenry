@@ -1,6 +1,6 @@
 # Anthony Henry  🧙🏾‍♂️
 
-![](https://komarev.com/ghpvc/?username=AnthonySJHenry&style=flat-square&color=blueviolet)
+![](https://komarev.com/ghpvc/?username=AnthonySJHenry&style=plastic&color=blueviolet)
 
 ![Static Badge](https://img.shields.io/badge/Anthony%20is%20suspected%20to%20be-A%20Sorcerer-blueviolet?style=for-the-badge&logo=linux&logoSize=72x48)
 
