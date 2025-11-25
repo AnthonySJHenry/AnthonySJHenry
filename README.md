@@ -7,7 +7,7 @@
 
 > Looking for `Backend || Platform || DevOps || Full-Stack` roles <br>
 
-
+![](https://komarev.com/ghpvc/?username=AnthonySJHenry&style=flat-square&color=blueviolet)
 
 ## About
 <a href="https://www.linkedin.com/in/anthonysjhenry/" target="_blank" rel="nofollow"><img src="linkedin.svg" alt="LinkedIn"></a>
