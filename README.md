@@ -47,7 +47,7 @@ Infrastructure: Azure Container Apps, GitHub Actions, Terraform, Docker, Kuberne
 <br> <br>
 
 ```yaml
-EZ RULES
+EZ RULES:
 - Use CAPS for constants
 - Naming should not require comments to provide meaning
 - Use comments sparingly, but when used, it should be explaining the WHY's not WHAT's
