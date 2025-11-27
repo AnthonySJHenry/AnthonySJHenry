@@ -1,5 +1,6 @@
 # Anthony Henry  🧙🏾‍♂️
 
+
 ![Static Badge](https://img.shields.io/badge/Anthony%20is%20suspected%20of%20being-A%20Linux%20Sorcerer-blueviolet?style=for-the-badge&logo=linux&logoSize=72x48)
 
 
@@ -55,3 +56,5 @@ EZ RULES:
 - SRP - Single Responsibility Principle (personal favorite)
 - DRY - Don't Repeast Yourself (pkgs, libs, structs, methods, functions... use them)
 ```
+
+[![Anthony Henry profile views](https://u8views.com/api/v1/github/profiles/30806798/views/day-week-month-total-count.svg)](https://u8views.com/github/AnthonySJHenry)
