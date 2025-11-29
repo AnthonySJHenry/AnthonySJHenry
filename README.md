@@ -3,7 +3,7 @@
 ![Static Badge](https://img.shields.io/badge/User%20is%20suspected%20of%20being-A%20Linux%20Sorcerer-blueviolet?style=for-the-badge&logo=linux&logoSize=72x48)
 
 
-## About
+## Career
 
 <a href="https://www.linkedin.com/in/anthonysjhenry/" target="_blank" rel="nofollow"><img src="linkedin.svg" alt="LinkedIn"></a>
 
