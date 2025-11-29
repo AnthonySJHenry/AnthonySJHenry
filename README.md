@@ -8,11 +8,11 @@
 <a href="https://www.linkedin.com/in/anthonysjhenry/" target="_blank" rel="nofollow"><img src="linkedin.svg" alt="LinkedIn"></a>
 
 
-- BSIT/BSCS @ Kennesaw State (Enterprise Systems & Data - HPC & Parallel Programming)
+- BSIT/BSCS @ Kennesaw State
 
-- MSCS @ GA Tech (Computing Systems & Human-Computer Interaction)
+- MSCS @ GA Tech
 
-- Research @ Maryville (Cybersecurity) [CURRENT]
+- Security Researcher
 
 <br> 
 
