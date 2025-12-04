@@ -17,7 +17,7 @@
 
 <br> 
 
-> Looking for `Backend || Platform || DevOps || Full-Stack` roles <br>
+> Looking for `Backend || Platform || DevOps || Site Reliability Engineer` roles <br>
 
 
 ## MY STACK
