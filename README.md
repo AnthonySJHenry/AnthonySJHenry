@@ -16,7 +16,7 @@
 
 <br> 
 
-> Looking for `Backend || Platform || DevOps || SRE` roles <br>
+> Looking for `Backend || Platform || DevOps/SRE` roles <br>
 
 
 ## Stack
