@@ -33,6 +33,3 @@
 
 [![Anthony Henry profile views](https://u8views.com/api/v1/github/profiles/30806798/views/day-week-month-total-count.svg)](https://u8views.com/github/AnthonySJHenry)
 
-```
-![Static Badge](https://img.shields.io/badge/User%20is%20Rumored%20of%being-too%20passionate-blueviolet?style=for-the-badge&logo=linux&logoSize=72x48)
-```
