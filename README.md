@@ -19,7 +19,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=postgres,terraform,kubernetes,azure,vscode,vscodium,go,docker,aws,firebase,supabase,heroku,bash,cypress,linux,redhat,git,github,gitlab,npm,js,ts,vite,vitest,mongodb,express,react,nodejs,py,prisma,selenium,postman,fastapi,flask,java&perline=7" />
+    <img src="https://skillicons.dev/icons?i=postgres,linux,ts,kubernetes,docker,aws,azure,zed,go,supabase,bash,redhat,git,github,gitlab,js,mongodb,express,react,nodejs,py,selenium,postman,fastapi,flask&perline=5" />
   </a>
 </p>
 
