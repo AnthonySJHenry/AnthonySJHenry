@@ -9,7 +9,7 @@
 ```
 - BSIT/BSCS @ KSU
 - MSCS @ GT
-- Security Researcher
+- AI Researcher
 ```
 
 <br> 
