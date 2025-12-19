@@ -4,7 +4,7 @@
 
 > Wants to build specialization:
 
-> Looking for `Backend || Platform || Full-Stack` roles
+> Looking for `Backend || DevOps || Full-Stack` roles
 
 <a href="https://www.linkedin.com/in/anthonysjhenry/" target="_blank" rel="nofollow"><img src="linkedin.svg" alt="LinkedIn"></a>
 
