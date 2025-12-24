@@ -9,9 +9,9 @@
 <a href="https://www.linkedin.com/in/anthonysjhenry/" target="_blank" rel="nofollow"><img src="linkedin.svg" alt="LinkedIn"></a>
 
 ```
-- BSIT/BSCS @ KSU
-- MSCS @ GT
-- Bug Hunter
+- BSIT/BSCS @ KSU (class of '22)
+- MSCS @ GT (8/10 courses completed; not currently enrolled)
+- Cloud enthusiast
 ```
 
 <br> 
